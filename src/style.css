@@ -1,0 +1,38 @@
+h1, p {
+  font-family: Lato;
+}
+
+.empty-space {
+  margin-top: 25px;
+}
+.addTask {
+  padding-left: 30px;
+  display: inline-block;
+}
+.dropdown {
+  display: inline-block !important;
+}
+.card {
+  margin-top: 20px;
+}
+
+.card {
+  min-width: 350px;
+  min-height: 10px;
+}
+.columns {
+  flex-wrap:  wrap;
+}
+.priority {
+  padding-bottom: 10px;
+  text-align: center;
+  padding-right: 20px;
+  font-weight: bolder;
+  color: red;
+}
+.hero {
+  height: 125px;
+}
+.tag {
+  margin-right: 2px;
+}
